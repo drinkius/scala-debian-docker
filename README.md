@@ -1,0 +1,1 @@
+Scalatra setup in a docker container
