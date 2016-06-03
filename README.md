@@ -1,1 +1,1 @@
-Scalatra setup in a docker container
+Scala setup in a docker container
